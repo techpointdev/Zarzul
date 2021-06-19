@@ -5,3 +5,7 @@ Zarzul is a simple WIP Discord Bot that moderates your server
 # Commands
 
 A full list of commands for the bot can be found [here](https://www.zarzul.gq/commands)
+
+# Issues
+
+Found a bug or the bot won't work properly? Make a post [here](https://github.com/techpointdev/Zarzul/issues)
