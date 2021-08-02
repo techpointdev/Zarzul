@@ -1,6 +1,6 @@
 # [![Logo](https://i.ibb.co/kX2L0T8/Zarzul-Text.png)](https://www.zarzul.gq)
 
-Zarzul is a simple WIP Discord Bot that moderates your server
+Zarzul is a simple WIP Discord Bot that moderates your server!
 
 # 🎨 Special Commands
 -iso Operating System Name | Gives you a download link for the operating system you specified
